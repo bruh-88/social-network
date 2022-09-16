@@ -1,0 +1,24 @@
+box{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+box1{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+box2{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+box3{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
